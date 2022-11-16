@@ -1,0 +1,7 @@
+[2022-11-16T16:16:31.966Z] info  code-server 4.8.3 977b853a1e162ab583aed64b1322d1515c57728c
+[2022-11-16T16:16:31.967Z] info  Using user-data-dir ~/.local/share/code-server
+[2022-11-16T16:16:31.998Z] info  Using config file ~/.config/code-server/config.yaml
+[2022-11-16T16:16:31.998Z] info  HTTPS server listening on https://0.0.0.0/ 
+[2022-11-16T16:16:31.998Z] info    - Authentication is enabled
+[2022-11-16T16:16:31.998Z] info      - Using password from ~/.config/code-server/config.yaml
+[2022-11-16T16:16:31.999Z] info    - Using certificate for HTTPS: /licence/code-server.crt
